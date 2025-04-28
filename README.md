@@ -11,4 +11,4 @@ It’s not just another CRM — it’s a human-first connection platform, design
 We’re taking some time to finalize and polish the experience.
 # The codebase is protected for now. Full launch coming soon. Stay tuned!
 
-www.projectdave.com
+www.projectdave.co
